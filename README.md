@@ -18,4 +18,4 @@ A couple of things to note:
 
 ## Result
 
-You can view the deployed project [here](http://www.waidmann.dev/)!
+You can view the deployed project [here](http://www.waidmann.dev/)! (soon™)
